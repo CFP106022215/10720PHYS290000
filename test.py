@@ -9,3 +9,4 @@ def median(x):
     return y[h]
   
 print median([ 7, 12, 3, 1, 6])
+print 'this is a test'
